@@ -2,7 +2,7 @@
  * File:   main.cpp
  * Author: Katelyn Allende 
  * Created on July 1, 2015, 12:25 PM
- * Purpose: Lab 7, Pi
+ * Purpose: Homework, PI
  */
 
 //System Libraries 
@@ -22,7 +22,7 @@ const float PI=4*atan(1);
 
 int main(int argc, char** argv) {
     //Declare and initialize variables 
-    int nTerms=20000;
+    int nTerms=20000;    //Number of Terms 
     float apprxPI=1;
     
     //Now calculate PI with a for-loop

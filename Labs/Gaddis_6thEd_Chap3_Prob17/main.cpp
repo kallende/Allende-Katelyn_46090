@@ -2,7 +2,7 @@
  * File:   main.cpp
  * Author: Katelyn Allende 
  * Created on July 1, 2015, 9:52 AM
- * Purpose: Monthly Payments
+ * Purpose: Homework, Monthly Payments
  */
 
 //System Libraries 
